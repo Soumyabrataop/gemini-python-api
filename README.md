@@ -12,7 +12,9 @@
 # Gemini Chat API
 
 > [!NOTE]
-> This API faces some challenges since its not upgraded for the latest gemini-3.0-pro-preview and nanobanana-02-pro models. The inference time is quite slow too due to firefox. We have taken care of it in the next upcoming version. In order to avail yourself a copy of the next version, we earnestly request you to join our [Telegram channel](https://t.me/apparely). If you still insist on using this version, you are free to do so.
+> **Looking for the latest features?**  
+> Active development has shifted to the upcoming version. To get early access and updates on the next release, reach out via [Telegram](https://t.me/apparely). You are welcome to continue using this legacy version, but please note that it will not receive regular updates. Check the Releases tab for stable builds.
+
 
 **Turn Google Gemini into your personal API!** This tool lets you chat with Google's Gemini AI through a simple web interface or programming code, without needing Google's official API keys.
 
