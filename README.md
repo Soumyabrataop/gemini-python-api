@@ -1,3 +1,14 @@
+> [!WARNING]
+> **Educational and Research Disclaimer**  
+> This repository is developed solely for educational, research, and proof-of-concept purposes to study browser automation, network request emulation, and protocol analysis. 
+> 
+> * **Compliance:** This tool is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC. It utilizes unofficial browser session persistence methods. Use of this automated tool may violate Google's Terms of Service and could result in account restrictions. 
+> * **Security:** Users are strictly advised to keep their session cookies private. Never commit `.env` files containing active tokens to public repositories.
+> * **Production Use:** This is not meant for production environments. For official, stable, and commercially compliant applications, please utilize the official [Google AI Studio SDK](https://google.dev).
+
+
+
+
 # Gemini Chat API
 
 > [!NOTE]
